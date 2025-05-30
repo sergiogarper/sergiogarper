@@ -60,8 +60,8 @@ Features:
 
 ---
 
-### 🛍️ VelourWeb — *Clothing E-commerce Website*
-VelourWeb is a responsive web store I built from scratch, featuring a catalog of clothes, a shopping cart, and user-friendly design. It was made using pure HTML, CSS, Javascript and PHP for backend logic.
+### 🛍️ Velour — *Clothing E-commerce Website*
+Velour is a responsive web store I built with some colleagues from scratch, featuring a catalog of clothes, a shopping cart, and user-friendly design. It was made using pure HTML, CSS, Javascript and PHP for backend logic.
 
 Features:
 - 🧾 Product catalog with filtering
